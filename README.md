@@ -36,4 +36,4 @@ Example:
 4. Egi Chrisna <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 5. Aries Y <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 6. Dhiya Ulhaq <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
-7. Dea S Putri <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
+7. Dea S Putri <a href="https://github.com/squest/zenx-integrated-learning">repo</a>
